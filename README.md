@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/ed1ec577-7085-4695-857c-14b2bbacfd41)
 
-A Gaussian Process is defined as a collection of random variables, any finite number of which have a joint Gaussian distribution. For regression, we model the function \( f(x) \) as:
+A Gaussian Process is defined as a collection of random variables, any finite number of which have a joint Gaussian distribution. For regression, we model the function $$ f(x) $$ as:
 \[
 f(x) \sim \mathcal{GP}(m(x), k(x, x'))
 \]
