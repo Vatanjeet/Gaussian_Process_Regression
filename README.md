@@ -6,5 +6,4 @@ Gaussian Process Regression (GPR) is a non-parametric Bayesian approach used for
 
 1. Prior Distribution
 A Gaussian Process (GP) is defined as:
-
-𝑓(𝑥)∼𝐺𝑃(𝑚(𝑥),𝑘(𝑥,𝑥′))
+$$ 𝑓(𝑥)∼𝐺𝑃(𝑚(𝑥),𝑘(𝑥,𝑥′)) $$
